@@ -1,5 +1,4 @@
-ActiveResourceServer
-::Application.routes.draw do
+ActiveResourceServer::Application.routes.draw do
   resources :editors
 
   resources :authors
